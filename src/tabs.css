@@ -39,6 +39,8 @@
 }
 
 .content_document {
+  display: grid;
+  gap: 2rem;
   padding-top: var(--small-padding);
   border-top: 1px solid var(--hairline-color);
 
